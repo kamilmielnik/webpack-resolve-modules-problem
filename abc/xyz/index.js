@@ -1,1 +1,1 @@
-console.log('\n\nlocal file\n\n');
+console.log('local file');
